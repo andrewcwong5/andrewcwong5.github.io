@@ -379,7 +379,7 @@ section2 img
   align-items: center;
   width: 1000px;
 }
-.container .box2
+.container2 .box2
 {
   position: relative;
   width: 450px;
@@ -421,25 +421,25 @@ section2 img
   transform-origin: right;
   transform: scaleX(0);
 }
-.container .box2:hover .contentBx
+.container2 .box2:hover .contentBx
 {
   transition: transform 0.5s;
   transform-origin: left;
   transform: scaleX(1);
 }
-.container .box2 .contentBx .content
+.container2 .box2 .contentBx .content
 {
   position: relative;
   padding: 20px 60px;
   opacity: 0;
 }
-.container .box2:hover .contentBx .content
+.container2 .box2:hover .contentBx .content
 {
   opacity: 1;
   transition: 0.5s;
   transition-delay: 0.5s;
 }
-.container .box2 .contentBx .content h2
+.container2 .box2 .contentBx .content h2
 {
   color: #fff;
   font-weight: 500;
