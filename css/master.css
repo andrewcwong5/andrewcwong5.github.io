@@ -511,7 +511,8 @@ section2 img
 display: flex;
 justify-content: center;
 align-items: center;
-min-height: 100vh;
+min-height: 20vh;
+width: 25vw;
 background: #001d10;
 animation: animateBackgroundColor 30s linear infinite;
 }
