@@ -18,7 +18,6 @@ body {
   border-radius: 20px;
   overflow: hidden;
   position: relative;
-  
       
   transition: 0.3s;
   }
@@ -31,10 +30,9 @@ body {
   
   /* Add some padding inside the card container */
   .container {
-  
-      
   padding: 2px 16px;
   } 
+
   .card .title
   {
     margin-left: auto;
